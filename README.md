@@ -87,18 +87,6 @@ The Q-Table is stored using a Javascript Object and looks like this:
 
 ---
 
-If you want to test this algorithm with a full set of states, you can clone the project on GitHub and change a few lines to see how it behaves.
-
-## Interesting Links
-
-- **[Q-Learning-Python-Example](https://github.com/hasanIqbalAnik/q-learning-python-example) by Hasan Iqbal:** Implementation of Q-Learning for the game "Catch the Ball", which I used to understand the algorithm steps.
-
-- **[IAMDinosaur](https://github.com/ivanseidel/IAMDinosaur) by Ivan Seidel:** Artificial Inteligence that teachs Google's Dinosaur to jump cactus. Not directly related to this project, but an awesome project!
-
-## License
-
-This project is distributed under the [MIT License](LICENSE).
-
 ## References
 
 - [Watkins, Christopher JCH, and Peter Dayan. "Q-learning." Machine learning 8.3-4 (1992): 279-292](https://link.springer.com/article/10.1007/BF00992698)
