@@ -4,8 +4,6 @@ This is a implementation of an Artificial Intelligence fully written in **Javasc
 
 It runs directly in the browser. You don't need to setup an environment and no installation is necessary.
 
-See it working and tweak some variables: [Try it yourself](https://italolelis.com/snake) !
-
 # How it works
 
 The first question I was asked when I came up with this idea: "Why do you want to use Javascript instead of Python?". I know Python has some libraries for scientific computing (like NumPy and TensorFlow), but I wanted something that worked right out of the box: no installation, running directly in the browser. This way, anyone can test and play with it without worrying about setting up a proper environment.
@@ -28,7 +26,7 @@ See [``q-learning.js``](q-learning.js) for the source code.
 
 ### Algorithm
 
-The algorithm consists of:
+The algorithm consists of: 
 
 | function | explanation |
 | -- | -- |
